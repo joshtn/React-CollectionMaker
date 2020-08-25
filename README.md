@@ -6,6 +6,9 @@ Create collections of products from Ebay. You can save the collections and share
 
 https://collection-maker.firebaseapp.com
 
+![alt text](https://i.imgur.com/vjAwcmb.png)
+
+
 # Features
 
 - Search for products in Ebay
